@@ -1,0 +1,37 @@
+1. Write a command to retrieve the first and last names of all
+   employees with a salary greater than 70000.
+
+2. How would you count the total number of employees in the Employees
+   table?
+
+3. Write a command to find the employee with the highest salary.
+
+4. Write a command to update the salary of Bob Smith to 65000.00.
+
+5. Write a command to retrieve all employees hired after 2022-01-01.
+
+6. Write a command to add a new column Department to the Employees
+   table.
+
+7.Write a command to retrieve all employees from the Employees
+   table sorted by HireDate in descending order.
+
+8.Write a command to retrieve the details of employees who were
+   hired in March 2021.
+
+9. write a query to add unique constraint to  email column in employee table.
+
+10. write a query to create parent table (product) and child table(order) and write a query to 
+    create inner join of above tables;
+11.write a subquery to list the employees who joined after the most recent hire in the HR.department.
+
+12. Write a command to list employees whose salaries are between
+    60000 and 70000.
+13. write a subquery to find the second min salary holder employee in testing department.
+
+14. write a query to find the last 4 digit of contact_number from employee table.
+
+15 write a query to find department and their average salary in employee table. 
+
+    
+
